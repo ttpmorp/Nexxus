@@ -46,7 +46,9 @@ Acompanhamento de todas as DPS geradas, com status de validação e envio.
 
 ### Validação
 
-<img width="1400" height="761" alt="image" src="https://github.com/user-attachments/assets/f6c7e9ad-07a6-480c-b5e8-796bf0cbb0af" />
+
+<img width="1892" height="903" alt="image" src="https://github.com/user-attachments/assets/0843d422-4f77-42fd-95e4-b052a0659903" />
+
 
 
 Validação das DPS contra o XSD oficial, com assinatura digital e destaque dos erros de esquema.
