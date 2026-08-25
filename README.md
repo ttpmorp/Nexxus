@@ -25,55 +25,64 @@ O **Nexxus** é um sistema web completo para a **FACC (Fundação de Apoio ao De
 
 ### Login
 
-![Login](docs/login.png)
+<img width="1400" height="761" alt="image" src="https://github.com/user-attachments/assets/5007eb48-0963-4420-9958-10da4cfe7135" />
+
 
 Tela de autenticação com visual moderno e acesso gerenciado pela equipe de TI.
 
 ### Formulário de emissão
 
-![Formulário de emissão](docs/formulario.png)
+<img width="1400" height="761" alt="image" src="https://github.com/user-attachments/assets/4e58b6b8-b49e-4dde-9e23-e7b08947606f" />
+
 
 Formulário de emissão da DPS com busca automática de tomador por CPF/CNPJ, cadastro mestre de serviços (dropdown com preenchimento automático de códigos), valor, vencimento e informações complementares.
 
 ### Lista de envios
 
-![Lista de envios](docs/lista-envios.png)
+<img width="1892" height="830" alt="image" src="https://github.com/user-attachments/assets/33842906-5349-4e00-a0c3-a5c6c70b33d1" />
+
 
 Acompanhamento de todas as DPS geradas, com status de validação e envio.
 
 ### Validação
 
-![Validação](docs/validacao.png)
+<img width="1400" height="761" alt="image" src="https://github.com/user-attachments/assets/f6c7e9ad-07a6-480c-b5e8-796bf0cbb0af" />
+
 
 Validação das DPS contra o XSD oficial, com assinatura digital e destaque dos erros de esquema.
 
 ### NFSe
 
-![NFSe emitidas](docs/nfse.png)
+<img width="1895" height="891" alt="image" src="https://github.com/user-attachments/assets/e91024c3-f8b8-491f-98a7-75b52c994689" />
+
 
 Notas fiscais emitidas com chave de acesso, download do XML e opção de cancelamento.
 
 ### NFSe canceladas
 
-![NFSe canceladas](docs/nfse-canceladas.png)
+<img width="1899" height="890" alt="image" src="https://github.com/user-attachments/assets/29f72463-8dda-4647-9895-47aecdeab4d4" />
+
 
 Notas canceladas separadas em aba própria, com motivo e data de cancelamento.
 
 ### Certificado digital
 
-![Certificado digital](docs/certificado.png)
+<img width="1886" height="889" alt="image" src="https://github.com/user-attachments/assets/7571561c-10c6-4a31-88bc-58352d962df0" />
+
 
 Instalação do certificado A1 no sistema para uso automático na validação, envio e cancelamento.
 
 ### Relatórios financeiros
 
-![Relatórios financeiros](docs/relatorios.png)
+<img width="1898" height="888" alt="image" src="https://github.com/user-attachments/assets/03cddf98-003a-4be6-8494-d03fa0746450" />
+
 
 Indicadores de receita, impostos e envios, com exportação em Excel.
 
 ### Projetos
 
-![Projetos](docs/projetos.png)
+<img width="1894" height="889" alt="image" src="https://github.com/user-attachments/assets/f653aa13-fe79-4746-b60c-30380eb2934f" />
+
 
 Visão dos projetos vinculados às emissões de notas.
 
