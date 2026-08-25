@@ -101,21 +101,6 @@ Visão dos projetos vinculados às emissões de notas.
 
 ---
 
-## 🛠️ Configuração
-
-### Pré-requisitos
-
-- .NET 8 SDK
-- Banco SQLite (criado automaticamente na primeira execução)
-
-### Executar
-
-```bash
-cd nfse-web
-dotnet run --urls http://0.0.0.0:5133
-```
-
-Acesse `http://localhost:5133`.
 
 ### Configuração (`appsettings.json`)
 
@@ -135,8 +120,9 @@ Acesse `http://localhost:5133`.
 - Certificado digital com senha persistida de forma controlada para uso automático
 - Repositório privado no GitHub com `.gitignore` que exclui banco de dados, certificados e credenciais
 
----
 
-## 📄 Licença
+## Desenvolvido por
 
-Uso interno da FACC — Fundação de Apoio ao Desenvolvimento da Computação Científica.
+| | |
+|---|---|
+| **Julia Santos** | [@ttpmorp](https://github.com/ttpmorp) · [ttpmorp@proton.me](mailto:ttpmorp@proton.me) |
