@@ -67,7 +67,8 @@ Notas canceladas separadas em aba própria, com motivo e data de cancelamento.
 
 ### Certificado digital
 
-<img width="1886" height="889" alt="image" src="https://github.com/user-attachments/assets/7571561c-10c6-4a31-88bc-58352d962df0" />
+<img width="1894" height="892" alt="image" src="https://github.com/user-attachments/assets/11f9d3c5-6ecf-4fac-ac3e-777f958a1128" />
+
 
 
 Instalação do certificado A1 no sistema para uso automático na validação, envio e cancelamento.
