@@ -6,7 +6,7 @@ O **Nexxus** é um sistema web completo para a **FACC (Fundação de Apoio ao De
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - **Emissão de DPS** no padrão nacional do Sistema NFS-e (SPED)
 - **Cadastro mestre de serviços** com códigos de tributação (CTN, NBS, código municipal) preenchidos automaticamente
@@ -21,7 +21,7 @@ O **Nexxus** é um sistema web completo para a **FACC (Fundação de Apoio ao De
 
 ---
 
-## 🖥️ Telas do sistema
+##  Telas do sistema
 
 ### Login
 
@@ -91,7 +91,7 @@ Visão dos projetos vinculados às emissões de notas.
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 - **Backend:** ASP.NET Core 8 (MVC)
 - **Banco de dados:** SQLite (Entity Framework Core)
@@ -113,7 +113,7 @@ Visão dos projetos vinculados às emissões de notas.
 
 ---
 
-## 🔒 Segurança
+##  Segurança
 
 - Senhas de usuário armazenadas com hash (BCrypt)
 - Autenticação com cookies e controle de acesso por setor
