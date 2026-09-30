@@ -2,7 +2,7 @@
 
 > Plataforma de emissão, validação e gestão de notas fiscais de serviço eletrônica (NFS-e) no padrão nacional (Sistema Nacional NFS-e).
 
-O **Nexxus** é um sistema web completo para a **FACC (Fundação de Apoio ao Desenvolvimento da Computação Científica)**, desenvolvido em ASP.NET Core, que unifica a emissão de DPS/NFS-e, o cadastro mestre de serviços, a validação com certificado digital e o controle financeiro.
+O **Nexxus** é um sistema web completo, desenvolvido em ASP.NET Core, que unifica a emissão de DPS/NFS-e, o cadastro mestre de serviços, a validação com certificado digital e o controle financeiro.
 
 ---
 
